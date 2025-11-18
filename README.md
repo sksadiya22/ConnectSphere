@@ -48,7 +48,7 @@ A complete full-stack blog application built with MongoDB, Express.js, React, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Niharika011205/lifescroll.git
+   git clone https://github.com/sksadiya22/lifescroll.git
    cd lifescroll
    ```
 
