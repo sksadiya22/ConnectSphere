@@ -1,8 +1,8 @@
-# Lifescroll - MERN Stack Blog Application
+# ConnectSphere - MERN Stack Social Media Platform
 
 ## 🌐 Live Demo
 
-🚀 **Live Link of the Life Scroll:**  
+🚀 **Live Link of the ConnectSphere :**  
 [https://lifescroll-3.onrender.com/](https://lifescroll-3.onrender.com/)
 
 
